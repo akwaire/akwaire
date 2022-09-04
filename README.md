@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akwaire
-- 👀 I’m interested in Data Analytics
+- 👋 Hi, I’m Akwamfon Eventus
+- 👀 I’m interested in Data Analysis & Engineering
 - 🌱 I’m currently learning R & SQL
 - 💞️ I’m looking to collaborate on R & SQL projects 
 - 📫 How to reach me akwamfoneventus@gmail.com
